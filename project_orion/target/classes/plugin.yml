@@ -1,0 +1,5 @@
+name: Orion
+version: 1.0.0
+main: org.mine.orion.OrionPlugin
+author: kangarko
+api-version: 1.14
